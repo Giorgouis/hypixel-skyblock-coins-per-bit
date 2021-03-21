@@ -10,3 +10,6 @@ A cmd tool to get coins per bit
 #####  -k  --key  hypixel API key
 #####  -o --output display update status( "Finished searching page " )
 
+### Example for god potion
+
+##### python main.py -n God-Potion -b 1500 -k your-hypixel-api-key -o
