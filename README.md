@@ -15,4 +15,4 @@ A cmd tool to get coins per bit
 
 ### Example for god potion
 
-##### python main.py -n God-Potion -b 1500 -k your-hypixel-api-key -o
+##### python coins_per_bit.py -n God-Potion -b 1500 -k your-hypixel-api-key -o
