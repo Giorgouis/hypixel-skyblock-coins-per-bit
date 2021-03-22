@@ -2,6 +2,8 @@
 A cmd tool to get coins per bit
 
 # How to use
+##### Make sure python 3 is installed
+##### Make sure request library is also installed, if not, you can install it with `pip install requests` if you downloaded python and checked "Add to Path
 
 ## flags
 #####  -h --help for help
