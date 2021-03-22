@@ -5,7 +5,7 @@ A cmd tool to get coins per bit
 
 ## flags
 #####  -h --help for help
-#####  -n value --name value item name(instead of space use - and instead of - use _)
+#####  -n value --name value item name(instead of space use - and instead of - use _ )
 #####  -b value --bits  amount of bits required to buy item from bits shop
 #####  -k  --key  hypixel API key
 #####  -o --output display update status( "Finished searching page " )
